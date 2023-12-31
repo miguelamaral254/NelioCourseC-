@@ -1,0 +1,15 @@
+/home/miguel/Documents/NelioCourse/Ex02Funcionario/obj/Debug/net7.0/Ex02Funcionario.csproj.AssemblyReference.cache
+/home/miguel/Documents/NelioCourse/Ex02Funcionario/obj/Debug/net7.0/Ex02Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+/home/miguel/Documents/NelioCourse/Ex02Funcionario/obj/Debug/net7.0/Ex02Funcionario.AssemblyInfoInputs.cache
+/home/miguel/Documents/NelioCourse/Ex02Funcionario/obj/Debug/net7.0/Ex02Funcionario.AssemblyInfo.cs
+/home/miguel/Documents/NelioCourse/Ex02Funcionario/obj/Debug/net7.0/Ex02Funcionario.csproj.CoreCompileInputs.cache
+/home/miguel/Documents/NelioCourse/Ex02Funcionario/bin/Debug/net7.0/Ex02Funcionario
+/home/miguel/Documents/NelioCourse/Ex02Funcionario/bin/Debug/net7.0/Ex02Funcionario.deps.json
+/home/miguel/Documents/NelioCourse/Ex02Funcionario/bin/Debug/net7.0/Ex02Funcionario.runtimeconfig.json
+/home/miguel/Documents/NelioCourse/Ex02Funcionario/bin/Debug/net7.0/Ex02Funcionario.dll
+/home/miguel/Documents/NelioCourse/Ex02Funcionario/bin/Debug/net7.0/Ex02Funcionario.pdb
+/home/miguel/Documents/NelioCourse/Ex02Funcionario/obj/Debug/net7.0/Ex02Funcionario.dll
+/home/miguel/Documents/NelioCourse/Ex02Funcionario/obj/Debug/net7.0/refint/Ex02Funcionario.dll
+/home/miguel/Documents/NelioCourse/Ex02Funcionario/obj/Debug/net7.0/Ex02Funcionario.pdb
+/home/miguel/Documents/NelioCourse/Ex02Funcionario/obj/Debug/net7.0/Ex02Funcionario.genruntimeconfig.cache
+/home/miguel/Documents/NelioCourse/Ex02Funcionario/obj/Debug/net7.0/ref/Ex02Funcionario.dll

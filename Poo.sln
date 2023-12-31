@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estoque", "Estoque\Estoque.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex01Retangulo", "Ex01Retangulo\Ex01Retangulo.csproj", "{9F0E63CE-3EDC-409A-8AB1-9E922DBDFCEB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex02Funcionario", "Ex02Funcionario\Ex02Funcionario.csproj", "{8CBC981C-6E4E-4404-A0EF-BBE844F52DD8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{9F0E63CE-3EDC-409A-8AB1-9E922DBDFCEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F0E63CE-3EDC-409A-8AB1-9E922DBDFCEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F0E63CE-3EDC-409A-8AB1-9E922DBDFCEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CBC981C-6E4E-4404-A0EF-BBE844F52DD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CBC981C-6E4E-4404-A0EF-BBE844F52DD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CBC981C-6E4E-4404-A0EF-BBE844F52DD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CBC981C-6E4E-4404-A0EF-BBE844F52DD8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
