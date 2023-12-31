@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex01", "Ex01\Ex01.csproj", "{74D07998-4B52-41E4-9269-87B59DC48E4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estoque", "Estoque\Estoque.csproj", "{177DC057-544B-4719-A664-01F27B1687F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex01Retangulo", "Ex01Retangulo\Ex01Retangulo.csproj", "{9F0E63CE-3EDC-409A-8AB1-9E922DBDFCEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74D07998-4B52-41E4-9269-87B59DC48E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74D07998-4B52-41E4-9269-87B59DC48E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74D07998-4B52-41E4-9269-87B59DC48E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74D07998-4B52-41E4-9269-87B59DC48E4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{177DC057-544B-4719-A664-01F27B1687F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{177DC057-544B-4719-A664-01F27B1687F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{177DC057-544B-4719-A664-01F27B1687F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{177DC057-544B-4719-A664-01F27B1687F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F0E63CE-3EDC-409A-8AB1-9E922DBDFCEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F0E63CE-3EDC-409A-8AB1-9E922DBDFCEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F0E63CE-3EDC-409A-8AB1-9E922DBDFCEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F0E63CE-3EDC-409A-8AB1-9E922DBDFCEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

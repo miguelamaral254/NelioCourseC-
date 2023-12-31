@@ -1,0 +1,15 @@
+/home/miguel/Documents/NelioCourse/Ex01Retangulo/bin/Debug/net7.0/Ex01Retangulo
+/home/miguel/Documents/NelioCourse/Ex01Retangulo/bin/Debug/net7.0/Ex01Retangulo.deps.json
+/home/miguel/Documents/NelioCourse/Ex01Retangulo/bin/Debug/net7.0/Ex01Retangulo.runtimeconfig.json
+/home/miguel/Documents/NelioCourse/Ex01Retangulo/bin/Debug/net7.0/Ex01Retangulo.dll
+/home/miguel/Documents/NelioCourse/Ex01Retangulo/bin/Debug/net7.0/Ex01Retangulo.pdb
+/home/miguel/Documents/NelioCourse/Ex01Retangulo/obj/Debug/net7.0/Ex01Retangulo.csproj.AssemblyReference.cache
+/home/miguel/Documents/NelioCourse/Ex01Retangulo/obj/Debug/net7.0/Ex01Retangulo.GeneratedMSBuildEditorConfig.editorconfig
+/home/miguel/Documents/NelioCourse/Ex01Retangulo/obj/Debug/net7.0/Ex01Retangulo.AssemblyInfoInputs.cache
+/home/miguel/Documents/NelioCourse/Ex01Retangulo/obj/Debug/net7.0/Ex01Retangulo.AssemblyInfo.cs
+/home/miguel/Documents/NelioCourse/Ex01Retangulo/obj/Debug/net7.0/Ex01Retangulo.csproj.CoreCompileInputs.cache
+/home/miguel/Documents/NelioCourse/Ex01Retangulo/obj/Debug/net7.0/Ex01Retangulo.dll
+/home/miguel/Documents/NelioCourse/Ex01Retangulo/obj/Debug/net7.0/refint/Ex01Retangulo.dll
+/home/miguel/Documents/NelioCourse/Ex01Retangulo/obj/Debug/net7.0/Ex01Retangulo.pdb
+/home/miguel/Documents/NelioCourse/Ex01Retangulo/obj/Debug/net7.0/Ex01Retangulo.genruntimeconfig.cache
+/home/miguel/Documents/NelioCourse/Ex01Retangulo/obj/Debug/net7.0/ref/Ex01Retangulo.dll

@@ -1,0 +1,15 @@
+/home/miguel/Documents/NelioCourse/Estoque/obj/Debug/net7.0/Estoque.csproj.AssemblyReference.cache
+/home/miguel/Documents/NelioCourse/Estoque/obj/Debug/net7.0/Estoque.GeneratedMSBuildEditorConfig.editorconfig
+/home/miguel/Documents/NelioCourse/Estoque/obj/Debug/net7.0/Estoque.AssemblyInfoInputs.cache
+/home/miguel/Documents/NelioCourse/Estoque/obj/Debug/net7.0/Estoque.AssemblyInfo.cs
+/home/miguel/Documents/NelioCourse/Estoque/obj/Debug/net7.0/Estoque.csproj.CoreCompileInputs.cache
+/home/miguel/Documents/NelioCourse/Estoque/bin/Debug/net7.0/Estoque
+/home/miguel/Documents/NelioCourse/Estoque/bin/Debug/net7.0/Estoque.deps.json
+/home/miguel/Documents/NelioCourse/Estoque/bin/Debug/net7.0/Estoque.runtimeconfig.json
+/home/miguel/Documents/NelioCourse/Estoque/bin/Debug/net7.0/Estoque.dll
+/home/miguel/Documents/NelioCourse/Estoque/bin/Debug/net7.0/Estoque.pdb
+/home/miguel/Documents/NelioCourse/Estoque/obj/Debug/net7.0/Estoque.dll
+/home/miguel/Documents/NelioCourse/Estoque/obj/Debug/net7.0/refint/Estoque.dll
+/home/miguel/Documents/NelioCourse/Estoque/obj/Debug/net7.0/Estoque.pdb
+/home/miguel/Documents/NelioCourse/Estoque/obj/Debug/net7.0/Estoque.genruntimeconfig.cache
+/home/miguel/Documents/NelioCourse/Estoque/obj/Debug/net7.0/ref/Estoque.dll
