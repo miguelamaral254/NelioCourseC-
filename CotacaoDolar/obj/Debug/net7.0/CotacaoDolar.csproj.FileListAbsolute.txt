@@ -1,0 +1,15 @@
+/home/miguel/Documents/NelioCourse/CotacaoDolar/bin/Debug/net7.0/CotacaoDolar
+/home/miguel/Documents/NelioCourse/CotacaoDolar/bin/Debug/net7.0/CotacaoDolar.deps.json
+/home/miguel/Documents/NelioCourse/CotacaoDolar/bin/Debug/net7.0/CotacaoDolar.runtimeconfig.json
+/home/miguel/Documents/NelioCourse/CotacaoDolar/bin/Debug/net7.0/CotacaoDolar.dll
+/home/miguel/Documents/NelioCourse/CotacaoDolar/bin/Debug/net7.0/CotacaoDolar.pdb
+/home/miguel/Documents/NelioCourse/CotacaoDolar/obj/Debug/net7.0/CotacaoDolar.csproj.AssemblyReference.cache
+/home/miguel/Documents/NelioCourse/CotacaoDolar/obj/Debug/net7.0/CotacaoDolar.GeneratedMSBuildEditorConfig.editorconfig
+/home/miguel/Documents/NelioCourse/CotacaoDolar/obj/Debug/net7.0/CotacaoDolar.AssemblyInfoInputs.cache
+/home/miguel/Documents/NelioCourse/CotacaoDolar/obj/Debug/net7.0/CotacaoDolar.AssemblyInfo.cs
+/home/miguel/Documents/NelioCourse/CotacaoDolar/obj/Debug/net7.0/CotacaoDolar.csproj.CoreCompileInputs.cache
+/home/miguel/Documents/NelioCourse/CotacaoDolar/obj/Debug/net7.0/CotacaoDolar.dll
+/home/miguel/Documents/NelioCourse/CotacaoDolar/obj/Debug/net7.0/refint/CotacaoDolar.dll
+/home/miguel/Documents/NelioCourse/CotacaoDolar/obj/Debug/net7.0/CotacaoDolar.pdb
+/home/miguel/Documents/NelioCourse/CotacaoDolar/obj/Debug/net7.0/CotacaoDolar.genruntimeconfig.cache
+/home/miguel/Documents/NelioCourse/CotacaoDolar/obj/Debug/net7.0/ref/CotacaoDolar.dll
