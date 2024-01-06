@@ -19,7 +19,7 @@ namespace CotacaoDolar
 
             double Resultado = Conversor.Result(BuyDol, CotValue);
             Console.WriteLine("---------");
-            
+
             Console.WriteLine("Valor a ser pago em R$ = " + Resultado.ToString("F2", CultureInfo.InvariantCulture));
 
 
