@@ -1,72 +1,39 @@
-namespace Estoque;
-
-class Produto
+namespace Estoque
 {
-    private string _nome;
-    private double _preco;
-    private int _quantidade;
 
-    public Produto(string nome, double preco, int quantidade)
+
+    class Produto
     {
-        _nome = nome;
-        _preco = preco;
-        _quantidade = quantidade;
-    }
+        public string Nome { get; set; }
+        public double Preco { get; private set; }
+        public int Quantidade { get; set; }
 
-    public string Nome {
-        get { return _nome;}
-        set { _nome = value;}
-
-    }
-    public double Preco {
-        get {return _preco;}
-    }
-    public int Quantidade {
-        get {return _quantidade;}
-    }
-    /*
-        public string GetNome()
+        public Produto()
         {
-            return _nome;
 
         }
-        public void SetNome(string nome)
+        public Produto(string nome, double preco, int quantidade)
         {
-            _nome = nome;
+            Nome = nome;
+            Preco = preco;
+            Quantidade = quantidade;
         }
-    public double GetPreco()
-    {
-        return _preco;
-    }
-    public int GetQuantidade()
-    {
-        return _quantidade;
-    }
-    */
-    public double ValorTotalEmEstoque()
-    {
-        return _preco * _quantidade;
+
+
+        public double ValorTotalEmEstoque()
+        {
+            return Preco * Quantidade;
+        }
+
+        public void AdcionarProdutos(int quantidade)
+        {
+            Quantidade += quantidade;
+        }
+        public void RemoverProdutos(int quantidade)
+        {
+            Quantidade -= quantidade;
+
+        }
     }
 
-    public void AdcionarProdutos(int quantidade)
-    {
-        _quantidade += quantidade;
-    }
-    public void RemoverProdutos(int quantidade)
-    {
-        _quantidade -= quantidade;
-
-    }
-    /*
-    public override string ToString()
-    {
-        return _nome +
-         ", $" +
-          _preco.ToString("F2") +
-        ", " +
-        _quantidade +
-        " unidades, Total: $" +
-        ValorTotalEmEstoque().ToString("F2");
-    }
-*/
 }
