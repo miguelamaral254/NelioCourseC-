@@ -1,0 +1,15 @@
+/home/miguel/Documents/NelioCourse/Struct/obj/Debug/net7.0/Struct.csproj.AssemblyReference.cache
+/home/miguel/Documents/NelioCourse/Struct/obj/Debug/net7.0/Struct.GeneratedMSBuildEditorConfig.editorconfig
+/home/miguel/Documents/NelioCourse/Struct/obj/Debug/net7.0/Struct.AssemblyInfoInputs.cache
+/home/miguel/Documents/NelioCourse/Struct/obj/Debug/net7.0/Struct.AssemblyInfo.cs
+/home/miguel/Documents/NelioCourse/Struct/obj/Debug/net7.0/Struct.csproj.CoreCompileInputs.cache
+/home/miguel/Documents/NelioCourse/Struct/bin/Debug/net7.0/Struct
+/home/miguel/Documents/NelioCourse/Struct/bin/Debug/net7.0/Struct.deps.json
+/home/miguel/Documents/NelioCourse/Struct/bin/Debug/net7.0/Struct.runtimeconfig.json
+/home/miguel/Documents/NelioCourse/Struct/bin/Debug/net7.0/Struct.dll
+/home/miguel/Documents/NelioCourse/Struct/bin/Debug/net7.0/Struct.pdb
+/home/miguel/Documents/NelioCourse/Struct/obj/Debug/net7.0/Struct.dll
+/home/miguel/Documents/NelioCourse/Struct/obj/Debug/net7.0/refint/Struct.dll
+/home/miguel/Documents/NelioCourse/Struct/obj/Debug/net7.0/Struct.pdb
+/home/miguel/Documents/NelioCourse/Struct/obj/Debug/net7.0/Struct.genruntimeconfig.cache
+/home/miguel/Documents/NelioCourse/Struct/obj/Debug/net7.0/ref/Struct.dll
