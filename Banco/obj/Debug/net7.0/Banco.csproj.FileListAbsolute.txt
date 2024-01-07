@@ -1,0 +1,15 @@
+/home/miguel/Documents/NelioCourse/Banco/obj/Debug/net7.0/Banco.csproj.AssemblyReference.cache
+/home/miguel/Documents/NelioCourse/Banco/obj/Debug/net7.0/Banco.GeneratedMSBuildEditorConfig.editorconfig
+/home/miguel/Documents/NelioCourse/Banco/obj/Debug/net7.0/Banco.AssemblyInfoInputs.cache
+/home/miguel/Documents/NelioCourse/Banco/obj/Debug/net7.0/Banco.AssemblyInfo.cs
+/home/miguel/Documents/NelioCourse/Banco/obj/Debug/net7.0/Banco.csproj.CoreCompileInputs.cache
+/home/miguel/Documents/NelioCourse/Banco/bin/Debug/net7.0/Banco
+/home/miguel/Documents/NelioCourse/Banco/bin/Debug/net7.0/Banco.deps.json
+/home/miguel/Documents/NelioCourse/Banco/bin/Debug/net7.0/Banco.runtimeconfig.json
+/home/miguel/Documents/NelioCourse/Banco/bin/Debug/net7.0/Banco.dll
+/home/miguel/Documents/NelioCourse/Banco/bin/Debug/net7.0/Banco.pdb
+/home/miguel/Documents/NelioCourse/Banco/obj/Debug/net7.0/Banco.dll
+/home/miguel/Documents/NelioCourse/Banco/obj/Debug/net7.0/refint/Banco.dll
+/home/miguel/Documents/NelioCourse/Banco/obj/Debug/net7.0/Banco.pdb
+/home/miguel/Documents/NelioCourse/Banco/obj/Debug/net7.0/Banco.genruntimeconfig.cache
+/home/miguel/Documents/NelioCourse/Banco/obj/Debug/net7.0/ref/Banco.dll
