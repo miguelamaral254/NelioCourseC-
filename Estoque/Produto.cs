@@ -1,31 +1,72 @@
 namespace Estoque;
 
 class Produto
+{
+    private string _nome;
+    private double _preco;
+    private int _quantidade;
+
+    public Produto(string nome, double preco, int quantidade)
     {
-        public string Nome;
-        public double Preco;
-        public int Quantidade;
-
-        
-    public double ValorTotalEmEstoque(){
-        return Preco * Quantidade;
+        _nome = nome;
+        _preco = preco;
+        _quantidade = quantidade;
     }
 
-    public void AdcionarProdutos(int quantidade){
-        Quantidade += quantidade;
-    }
-    public void RemoverProdutos(int quantidade){
-        Quantidade -= quantidade;
+    public string Nome {
+        get { return _nome;}
+        set { _nome = value;}
 
     }
-    public override string ToString(){
-        return Nome +
+    public double Preco {
+        get {return _preco;}
+    }
+    public int Quantidade {
+        get {return _quantidade;}
+    }
+    /*
+        public string GetNome()
+        {
+            return _nome;
+
+        }
+        public void SetNome(string nome)
+        {
+            _nome = nome;
+        }
+    public double GetPreco()
+    {
+        return _preco;
+    }
+    public int GetQuantidade()
+    {
+        return _quantidade;
+    }
+    */
+    public double ValorTotalEmEstoque()
+    {
+        return _preco * _quantidade;
+    }
+
+    public void AdcionarProdutos(int quantidade)
+    {
+        _quantidade += quantidade;
+    }
+    public void RemoverProdutos(int quantidade)
+    {
+        _quantidade -= quantidade;
+
+    }
+    /*
+    public override string ToString()
+    {
+        return _nome +
          ", $" +
-          Preco.ToString("F2") +
-        ", "+
-        Quantidade +
-        " unidades, Total: $" + 
+          _preco.ToString("F2") +
+        ", " +
+        _quantidade +
+        " unidades, Total: $" +
         ValorTotalEmEstoque().ToString("F2");
-
     }
+*/
 }
