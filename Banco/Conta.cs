@@ -15,8 +15,8 @@ namespace Banco
         {
             NumeroConta = numeroConta;
             Titular = titular;
-            DepInicial = depInicial;
-            Saldo = depInicial; // Adicionando o depósito inicial ao saldo no construtor
+            AdicionarSaldo(depInicial);
+
         }
 
         public void AdicionarSaldo(double valor)
@@ -26,6 +26,15 @@ namespace Banco
         public void SaqueSaldo(double valor)
         {   double taxSaque = 5.0;
             Saldo -= valor + taxSaque;
+        }
+        public override string ToString()
+        {
+            return "Conta: " +
+            NumeroConta +
+            ", Titular: " +
+            Titular +
+            ", Saldo: R$ " +
+            Saldo.ToString("F2",CultureInfo.InvariantCulture);
         }
     }
 }

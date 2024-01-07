@@ -27,27 +27,27 @@ namespace Banco
 
             Conta conta = new Conta(numeroConta, titular, depInicial);
 
+            Console.WriteLine("");
             Console.WriteLine("Dados da conta:");
-            Console.WriteLine($"Conta: {conta.NumeroConta}, Titular: {conta.Titular}, Saldo: R$ {conta.Saldo.ToString("F2", CultureInfo.InvariantCulture)}");
-            Console.WriteLine("");
+            Console.WriteLine(conta);
 
+            Console.WriteLine("");
             Console.Write("Digite o valor do depósito: ");
-            double valorDeposito = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            conta.AdicionarSaldo(valorDeposito);
-            Console.WriteLine("");
+            double valor = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            conta.AdicionarSaldo(valor);
 
+            Console.WriteLine("");
             Console.WriteLine("Dados atualizados:");
-            Console.WriteLine($"Conta: {conta.NumeroConta}, Titular: {conta.Titular}, Saldo: R$ {conta.Saldo.ToString("F2", CultureInfo.InvariantCulture)}");
-            Console.WriteLine("");
+            Console.WriteLine(conta);
 
+            Console.WriteLine("");
             Console.Write("Digite o valor do saque: ");
-            double valorSaque = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            conta.SaqueSaldo(valorSaque);
+            valor = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            conta.SaqueSaldo(valor);
+
             Console.WriteLine("");
-
             Console.WriteLine("Dados atualizados:");
-            Console.WriteLine($"Conta: {conta.NumeroConta}, Titular: {conta.Titular}, Saldo: R$ {conta.Saldo.ToString("F2", CultureInfo.InvariantCulture)}");
-
+            Console.WriteLine(conta);
         }
 
     }
