@@ -1,0 +1,15 @@
+/home/miguel/Documents/NelioCourse/Rent/bin/Debug/net7.0/Rent
+/home/miguel/Documents/NelioCourse/Rent/bin/Debug/net7.0/Rent.deps.json
+/home/miguel/Documents/NelioCourse/Rent/bin/Debug/net7.0/Rent.runtimeconfig.json
+/home/miguel/Documents/NelioCourse/Rent/bin/Debug/net7.0/Rent.dll
+/home/miguel/Documents/NelioCourse/Rent/bin/Debug/net7.0/Rent.pdb
+/home/miguel/Documents/NelioCourse/Rent/obj/Debug/net7.0/Rent.csproj.AssemblyReference.cache
+/home/miguel/Documents/NelioCourse/Rent/obj/Debug/net7.0/Rent.GeneratedMSBuildEditorConfig.editorconfig
+/home/miguel/Documents/NelioCourse/Rent/obj/Debug/net7.0/Rent.AssemblyInfoInputs.cache
+/home/miguel/Documents/NelioCourse/Rent/obj/Debug/net7.0/Rent.AssemblyInfo.cs
+/home/miguel/Documents/NelioCourse/Rent/obj/Debug/net7.0/Rent.csproj.CoreCompileInputs.cache
+/home/miguel/Documents/NelioCourse/Rent/obj/Debug/net7.0/Rent.dll
+/home/miguel/Documents/NelioCourse/Rent/obj/Debug/net7.0/refint/Rent.dll
+/home/miguel/Documents/NelioCourse/Rent/obj/Debug/net7.0/Rent.pdb
+/home/miguel/Documents/NelioCourse/Rent/obj/Debug/net7.0/Rent.genruntimeconfig.cache
+/home/miguel/Documents/NelioCourse/Rent/obj/Debug/net7.0/ref/Rent.dll
