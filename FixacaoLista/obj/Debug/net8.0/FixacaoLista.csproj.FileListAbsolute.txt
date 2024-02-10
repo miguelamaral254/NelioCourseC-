@@ -1,0 +1,14 @@
+C:\Users\MIGUEL\source\repos\FixacaoLista\bin\Debug\net8.0\FixacaoLista.exe
+C:\Users\MIGUEL\source\repos\FixacaoLista\bin\Debug\net8.0\FixacaoLista.deps.json
+C:\Users\MIGUEL\source\repos\FixacaoLista\bin\Debug\net8.0\FixacaoLista.runtimeconfig.json
+C:\Users\MIGUEL\source\repos\FixacaoLista\bin\Debug\net8.0\FixacaoLista.dll
+C:\Users\MIGUEL\source\repos\FixacaoLista\bin\Debug\net8.0\FixacaoLista.pdb
+C:\Users\MIGUEL\source\repos\FixacaoLista\obj\Debug\net8.0\FixacaoLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIGUEL\source\repos\FixacaoLista\obj\Debug\net8.0\FixacaoLista.AssemblyInfoInputs.cache
+C:\Users\MIGUEL\source\repos\FixacaoLista\obj\Debug\net8.0\FixacaoLista.AssemblyInfo.cs
+C:\Users\MIGUEL\source\repos\FixacaoLista\obj\Debug\net8.0\FixacaoLista.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL\source\repos\FixacaoLista\obj\Debug\net8.0\FixacaoLista.dll
+C:\Users\MIGUEL\source\repos\FixacaoLista\obj\Debug\net8.0\refint\FixacaoLista.dll
+C:\Users\MIGUEL\source\repos\FixacaoLista\obj\Debug\net8.0\FixacaoLista.pdb
+C:\Users\MIGUEL\source\repos\FixacaoLista\obj\Debug\net8.0\FixacaoLista.genruntimeconfig.cache
+C:\Users\MIGUEL\source\repos\FixacaoLista\obj\Debug\net8.0\ref\FixacaoLista.dll

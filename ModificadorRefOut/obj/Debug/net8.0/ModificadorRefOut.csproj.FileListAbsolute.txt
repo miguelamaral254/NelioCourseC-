@@ -1,0 +1,14 @@
+C:\Users\MIGUEL\source\repos\ModificadorRefOut\bin\Debug\net8.0\ModificadorRefOut.exe
+C:\Users\MIGUEL\source\repos\ModificadorRefOut\bin\Debug\net8.0\ModificadorRefOut.deps.json
+C:\Users\MIGUEL\source\repos\ModificadorRefOut\bin\Debug\net8.0\ModificadorRefOut.runtimeconfig.json
+C:\Users\MIGUEL\source\repos\ModificadorRefOut\bin\Debug\net8.0\ModificadorRefOut.dll
+C:\Users\MIGUEL\source\repos\ModificadorRefOut\bin\Debug\net8.0\ModificadorRefOut.pdb
+C:\Users\MIGUEL\source\repos\ModificadorRefOut\obj\Debug\net8.0\ModificadorRefOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIGUEL\source\repos\ModificadorRefOut\obj\Debug\net8.0\ModificadorRefOut.AssemblyInfoInputs.cache
+C:\Users\MIGUEL\source\repos\ModificadorRefOut\obj\Debug\net8.0\ModificadorRefOut.AssemblyInfo.cs
+C:\Users\MIGUEL\source\repos\ModificadorRefOut\obj\Debug\net8.0\ModificadorRefOut.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL\source\repos\ModificadorRefOut\obj\Debug\net8.0\ModificadorRefOut.dll
+C:\Users\MIGUEL\source\repos\ModificadorRefOut\obj\Debug\net8.0\refint\ModificadorRefOut.dll
+C:\Users\MIGUEL\source\repos\ModificadorRefOut\obj\Debug\net8.0\ModificadorRefOut.pdb
+C:\Users\MIGUEL\source\repos\ModificadorRefOut\obj\Debug\net8.0\ModificadorRefOut.genruntimeconfig.cache
+C:\Users\MIGUEL\source\repos\ModificadorRefOut\obj\Debug\net8.0\ref\ModificadorRefOut.dll

@@ -1,0 +1,14 @@
+C:\Users\MIGUEL\source\repos\ExCompObj\bin\Debug\net8.0\ExCompObj.exe
+C:\Users\MIGUEL\source\repos\ExCompObj\bin\Debug\net8.0\ExCompObj.deps.json
+C:\Users\MIGUEL\source\repos\ExCompObj\bin\Debug\net8.0\ExCompObj.runtimeconfig.json
+C:\Users\MIGUEL\source\repos\ExCompObj\bin\Debug\net8.0\ExCompObj.dll
+C:\Users\MIGUEL\source\repos\ExCompObj\bin\Debug\net8.0\ExCompObj.pdb
+C:\Users\MIGUEL\source\repos\ExCompObj\obj\Debug\net8.0\ExCompObj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIGUEL\source\repos\ExCompObj\obj\Debug\net8.0\ExCompObj.AssemblyInfoInputs.cache
+C:\Users\MIGUEL\source\repos\ExCompObj\obj\Debug\net8.0\ExCompObj.AssemblyInfo.cs
+C:\Users\MIGUEL\source\repos\ExCompObj\obj\Debug\net8.0\ExCompObj.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL\source\repos\ExCompObj\obj\Debug\net8.0\ExCompObj.dll
+C:\Users\MIGUEL\source\repos\ExCompObj\obj\Debug\net8.0\refint\ExCompObj.dll
+C:\Users\MIGUEL\source\repos\ExCompObj\obj\Debug\net8.0\ExCompObj.pdb
+C:\Users\MIGUEL\source\repos\ExCompObj\obj\Debug\net8.0\ExCompObj.genruntimeconfig.cache
+C:\Users\MIGUEL\source\repos\ExCompObj\obj\Debug\net8.0\ref\ExCompObj.dll

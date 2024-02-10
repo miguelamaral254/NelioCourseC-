@@ -1,0 +1,14 @@
+C:\Users\MIGUEL\source\repos\OpcionalForEach\bin\Debug\net8.0\OpcionalForEach.exe
+C:\Users\MIGUEL\source\repos\OpcionalForEach\bin\Debug\net8.0\OpcionalForEach.deps.json
+C:\Users\MIGUEL\source\repos\OpcionalForEach\bin\Debug\net8.0\OpcionalForEach.runtimeconfig.json
+C:\Users\MIGUEL\source\repos\OpcionalForEach\bin\Debug\net8.0\OpcionalForEach.dll
+C:\Users\MIGUEL\source\repos\OpcionalForEach\bin\Debug\net8.0\OpcionalForEach.pdb
+C:\Users\MIGUEL\source\repos\OpcionalForEach\obj\Debug\net8.0\OpcionalForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIGUEL\source\repos\OpcionalForEach\obj\Debug\net8.0\OpcionalForEach.AssemblyInfoInputs.cache
+C:\Users\MIGUEL\source\repos\OpcionalForEach\obj\Debug\net8.0\OpcionalForEach.AssemblyInfo.cs
+C:\Users\MIGUEL\source\repos\OpcionalForEach\obj\Debug\net8.0\OpcionalForEach.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL\source\repos\OpcionalForEach\obj\Debug\net8.0\OpcionalForEach.dll
+C:\Users\MIGUEL\source\repos\OpcionalForEach\obj\Debug\net8.0\refint\OpcionalForEach.dll
+C:\Users\MIGUEL\source\repos\OpcionalForEach\obj\Debug\net8.0\OpcionalForEach.pdb
+C:\Users\MIGUEL\source\repos\OpcionalForEach\obj\Debug\net8.0\OpcionalForEach.genruntimeconfig.cache
+C:\Users\MIGUEL\source\repos\OpcionalForEach\obj\Debug\net8.0\ref\OpcionalForEach.dll
