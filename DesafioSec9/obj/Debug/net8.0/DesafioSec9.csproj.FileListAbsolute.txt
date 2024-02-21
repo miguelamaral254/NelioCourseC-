@@ -1,0 +1,15 @@
+C:\Users\MIGUEL\NelioCourseC-\DesafioSec9\bin\Debug\net8.0\DesafioSec9.exe
+C:\Users\MIGUEL\NelioCourseC-\DesafioSec9\bin\Debug\net8.0\DesafioSec9.deps.json
+C:\Users\MIGUEL\NelioCourseC-\DesafioSec9\bin\Debug\net8.0\DesafioSec9.runtimeconfig.json
+C:\Users\MIGUEL\NelioCourseC-\DesafioSec9\bin\Debug\net8.0\DesafioSec9.dll
+C:\Users\MIGUEL\NelioCourseC-\DesafioSec9\bin\Debug\net8.0\DesafioSec9.pdb
+C:\Users\MIGUEL\NelioCourseC-\DesafioSec9\obj\Debug\net8.0\DesafioSec9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIGUEL\NelioCourseC-\DesafioSec9\obj\Debug\net8.0\DesafioSec9.AssemblyInfoInputs.cache
+C:\Users\MIGUEL\NelioCourseC-\DesafioSec9\obj\Debug\net8.0\DesafioSec9.AssemblyInfo.cs
+C:\Users\MIGUEL\NelioCourseC-\DesafioSec9\obj\Debug\net8.0\DesafioSec9.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL\NelioCourseC-\DesafioSec9\obj\Debug\net8.0\DesafioSec9.sourcelink.json
+C:\Users\MIGUEL\NelioCourseC-\DesafioSec9\obj\Debug\net8.0\DesafioSec9.dll
+C:\Users\MIGUEL\NelioCourseC-\DesafioSec9\obj\Debug\net8.0\refint\DesafioSec9.dll
+C:\Users\MIGUEL\NelioCourseC-\DesafioSec9\obj\Debug\net8.0\DesafioSec9.pdb
+C:\Users\MIGUEL\NelioCourseC-\DesafioSec9\obj\Debug\net8.0\DesafioSec9.genruntimeconfig.cache
+C:\Users\MIGUEL\NelioCourseC-\DesafioSec9\obj\Debug\net8.0\ref\DesafioSec9.dll

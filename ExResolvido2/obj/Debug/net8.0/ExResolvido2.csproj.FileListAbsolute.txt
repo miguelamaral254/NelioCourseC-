@@ -1,0 +1,15 @@
+C:\Users\MIGUEL\NelioCourseC-\ExResolvido2\bin\Debug\net8.0\ExResolvido2.exe
+C:\Users\MIGUEL\NelioCourseC-\ExResolvido2\bin\Debug\net8.0\ExResolvido2.deps.json
+C:\Users\MIGUEL\NelioCourseC-\ExResolvido2\bin\Debug\net8.0\ExResolvido2.runtimeconfig.json
+C:\Users\MIGUEL\NelioCourseC-\ExResolvido2\bin\Debug\net8.0\ExResolvido2.dll
+C:\Users\MIGUEL\NelioCourseC-\ExResolvido2\bin\Debug\net8.0\ExResolvido2.pdb
+C:\Users\MIGUEL\NelioCourseC-\ExResolvido2\obj\Debug\net8.0\ExResolvido2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIGUEL\NelioCourseC-\ExResolvido2\obj\Debug\net8.0\ExResolvido2.AssemblyInfoInputs.cache
+C:\Users\MIGUEL\NelioCourseC-\ExResolvido2\obj\Debug\net8.0\ExResolvido2.AssemblyInfo.cs
+C:\Users\MIGUEL\NelioCourseC-\ExResolvido2\obj\Debug\net8.0\ExResolvido2.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL\NelioCourseC-\ExResolvido2\obj\Debug\net8.0\ExResolvido2.sourcelink.json
+C:\Users\MIGUEL\NelioCourseC-\ExResolvido2\obj\Debug\net8.0\ExResolvido2.dll
+C:\Users\MIGUEL\NelioCourseC-\ExResolvido2\obj\Debug\net8.0\refint\ExResolvido2.dll
+C:\Users\MIGUEL\NelioCourseC-\ExResolvido2\obj\Debug\net8.0\ExResolvido2.pdb
+C:\Users\MIGUEL\NelioCourseC-\ExResolvido2\obj\Debug\net8.0\ExResolvido2.genruntimeconfig.cache
+C:\Users\MIGUEL\NelioCourseC-\ExResolvido2\obj\Debug\net8.0\ref\ExResolvido2.dll
