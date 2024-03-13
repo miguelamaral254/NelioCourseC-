@@ -1,0 +1,15 @@
+C:\Users\MIGUEL\NelioCourseC-\ExAbastract\bin\Debug\net8.0\ExAbastract.exe
+C:\Users\MIGUEL\NelioCourseC-\ExAbastract\bin\Debug\net8.0\ExAbastract.deps.json
+C:\Users\MIGUEL\NelioCourseC-\ExAbastract\bin\Debug\net8.0\ExAbastract.runtimeconfig.json
+C:\Users\MIGUEL\NelioCourseC-\ExAbastract\bin\Debug\net8.0\ExAbastract.dll
+C:\Users\MIGUEL\NelioCourseC-\ExAbastract\bin\Debug\net8.0\ExAbastract.pdb
+C:\Users\MIGUEL\NelioCourseC-\ExAbastract\obj\Debug\net8.0\ExAbastract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIGUEL\NelioCourseC-\ExAbastract\obj\Debug\net8.0\ExAbastract.AssemblyInfoInputs.cache
+C:\Users\MIGUEL\NelioCourseC-\ExAbastract\obj\Debug\net8.0\ExAbastract.AssemblyInfo.cs
+C:\Users\MIGUEL\NelioCourseC-\ExAbastract\obj\Debug\net8.0\ExAbastract.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL\NelioCourseC-\ExAbastract\obj\Debug\net8.0\ExAbastract.sourcelink.json
+C:\Users\MIGUEL\NelioCourseC-\ExAbastract\obj\Debug\net8.0\ExAbastract.dll
+C:\Users\MIGUEL\NelioCourseC-\ExAbastract\obj\Debug\net8.0\refint\ExAbastract.dll
+C:\Users\MIGUEL\NelioCourseC-\ExAbastract\obj\Debug\net8.0\ExAbastract.pdb
+C:\Users\MIGUEL\NelioCourseC-\ExAbastract\obj\Debug\net8.0\ExAbastract.genruntimeconfig.cache
+C:\Users\MIGUEL\NelioCourseC-\ExAbastract\obj\Debug\net8.0\ref\ExAbastract.dll
