@@ -1,0 +1,15 @@
+C:\Users\MIGUEL\NelioCourseC-\ExFixacaoSec10\bin\Debug\net8.0\ExFixacaoSec10.exe
+C:\Users\MIGUEL\NelioCourseC-\ExFixacaoSec10\bin\Debug\net8.0\ExFixacaoSec10.deps.json
+C:\Users\MIGUEL\NelioCourseC-\ExFixacaoSec10\bin\Debug\net8.0\ExFixacaoSec10.runtimeconfig.json
+C:\Users\MIGUEL\NelioCourseC-\ExFixacaoSec10\bin\Debug\net8.0\ExFixacaoSec10.dll
+C:\Users\MIGUEL\NelioCourseC-\ExFixacaoSec10\bin\Debug\net8.0\ExFixacaoSec10.pdb
+C:\Users\MIGUEL\NelioCourseC-\ExFixacaoSec10\obj\Debug\net8.0\ExFixacaoSec10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIGUEL\NelioCourseC-\ExFixacaoSec10\obj\Debug\net8.0\ExFixacaoSec10.AssemblyInfoInputs.cache
+C:\Users\MIGUEL\NelioCourseC-\ExFixacaoSec10\obj\Debug\net8.0\ExFixacaoSec10.AssemblyInfo.cs
+C:\Users\MIGUEL\NelioCourseC-\ExFixacaoSec10\obj\Debug\net8.0\ExFixacaoSec10.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL\NelioCourseC-\ExFixacaoSec10\obj\Debug\net8.0\ExFixacaoSec10.sourcelink.json
+C:\Users\MIGUEL\NelioCourseC-\ExFixacaoSec10\obj\Debug\net8.0\ExFixacaoSec10.dll
+C:\Users\MIGUEL\NelioCourseC-\ExFixacaoSec10\obj\Debug\net8.0\refint\ExFixacaoSec10.dll
+C:\Users\MIGUEL\NelioCourseC-\ExFixacaoSec10\obj\Debug\net8.0\ExFixacaoSec10.pdb
+C:\Users\MIGUEL\NelioCourseC-\ExFixacaoSec10\obj\Debug\net8.0\ExFixacaoSec10.genruntimeconfig.cache
+C:\Users\MIGUEL\NelioCourseC-\ExFixacaoSec10\obj\Debug\net8.0\ref\ExFixacaoSec10.dll
