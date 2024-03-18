@@ -1,0 +1,15 @@
+C:\Users\MIGUEL\NelioCourseC-\ExPropSec10\bin\Debug\net8.0\ExPropSec10.exe
+C:\Users\MIGUEL\NelioCourseC-\ExPropSec10\bin\Debug\net8.0\ExPropSec10.deps.json
+C:\Users\MIGUEL\NelioCourseC-\ExPropSec10\bin\Debug\net8.0\ExPropSec10.runtimeconfig.json
+C:\Users\MIGUEL\NelioCourseC-\ExPropSec10\bin\Debug\net8.0\ExPropSec10.dll
+C:\Users\MIGUEL\NelioCourseC-\ExPropSec10\bin\Debug\net8.0\ExPropSec10.pdb
+C:\Users\MIGUEL\NelioCourseC-\ExPropSec10\obj\Debug\net8.0\ExPropSec10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIGUEL\NelioCourseC-\ExPropSec10\obj\Debug\net8.0\ExPropSec10.AssemblyInfoInputs.cache
+C:\Users\MIGUEL\NelioCourseC-\ExPropSec10\obj\Debug\net8.0\ExPropSec10.AssemblyInfo.cs
+C:\Users\MIGUEL\NelioCourseC-\ExPropSec10\obj\Debug\net8.0\ExPropSec10.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL\NelioCourseC-\ExPropSec10\obj\Debug\net8.0\ExPropSec10.sourcelink.json
+C:\Users\MIGUEL\NelioCourseC-\ExPropSec10\obj\Debug\net8.0\ExPropSec10.dll
+C:\Users\MIGUEL\NelioCourseC-\ExPropSec10\obj\Debug\net8.0\refint\ExPropSec10.dll
+C:\Users\MIGUEL\NelioCourseC-\ExPropSec10\obj\Debug\net8.0\ExPropSec10.pdb
+C:\Users\MIGUEL\NelioCourseC-\ExPropSec10\obj\Debug\net8.0\ExPropSec10.genruntimeconfig.cache
+C:\Users\MIGUEL\NelioCourseC-\ExPropSec10\obj\Debug\net8.0\ref\ExPropSec10.dll
